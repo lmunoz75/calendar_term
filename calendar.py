@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Hello to Git (Local)")
+print("Hello to GitHub")
